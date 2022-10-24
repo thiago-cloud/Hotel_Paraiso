@@ -1,7 +1,5 @@
 # Meus Projetos
- Tecnologias css3 htm5 e javascript
+ Tecnologias css3 é htm5!
 
 
-Repositorio Criado!
 
-Aqui Adicionamos diretamente no site!
