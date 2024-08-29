@@ -22,7 +22,7 @@ O repositório está organizado da seguinte maneira:
 
 - **style.css:** Arquivo style.css com os estilos personalizados.
 - **index.html:** Página principal do site.
-- 
+
 # Execução do Projeto
 
 1. Clone o repositório "git clone gitLink".
