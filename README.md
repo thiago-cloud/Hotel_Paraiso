@@ -1,12 +1,31 @@
-# Hotel Site
+# Projeto Frontend - Site de Hospedagem de Hotel
 
+Status: Desenvolvedor ⚠️
 
-O front-end do um site de hotel aqui mostrarei a parte visível e interativa que os usuários veem e com a qual interagem ao visitar o site. Aqui está uma breve descrição do front-end simples de um site de hotel:
+Bem-vindo ao meu projeto de frontend para um site de hospedagem de hotel! Este é um dos meus primeiros projetos em desenvolvimento web, criado para demonstrar habilidades em HTML, CSS e o uso de bibliotecas populares para design e ícones.
 
-O front-end de um site de hotel é projetado para proporcionar aos visitantes uma experiência agradável e informativa. Ele geralmente apresenta os seguintes elementos:
+# Tecnologias Utilizadas
 
-Página Inicial Atraente: A página inicial do site exibe imagens atraentes do hotel, suas instalações e cenários circundantes para atrair os visitantes. Um banner convidativo e informações de destaque sobre promoções ou eventos especiais podem ser exibidos.
+- **HTML:** Estruturação da página web.
+- **CSS:** Estilização e layout dos elementos da página.
+- **FontAwesome CDN:** Biblioteca de ícones para adicionar ícones vetoriais escaláveis.
+- **Bootstrap CDN:** Framework CSS para criar um design responsivo e componentes pré-estilizados.
 
-Navegação Intuitiva: Uma barra de navegação no topo da página permite aos visitantes acessar facilmente diferentes seções do site, como quartos, restaurantes, serviços, contatos e reservas. Menus suspensos ou ícones intuitivos podem ser usados para facilitar a navegação.
+# Funcionalidades
 
+- **Ícones Atraentes:** Utilização do FontAwesome para incluir ícones modernos e intuitivos.
+- **Layout Atraente:** Estrutura e estilização modernas para apresentar informações de forma clara e atraente.
 
+# Estrutura do Repositório
+
+O repositório está organizado da seguinte maneira:
+
+- **style.css:** Arquivo style.css com os estilos personalizados.
+- **index.html:** Página principal do site.
+- 
+# Execução do Projeto
+
+1. Clone o repositório "git clone gitLink".
+2. Navegue até o diretório do projeto comando "cd site-hotel"
+3. No arquivo "index.html" pressione o botão direito do mouse e selecione live server caso execute no VS Code tenha extensão instalada live server instalada no editor.
+4. Caso não tenha o VS Code você pode clicar no "index.html" e abrir a página.
